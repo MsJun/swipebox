@@ -15,7 +15,7 @@ swipebox灯箱(仿微博九宫格图片展示效果)
     7 │   ├── icons.svg
     8 │   └── loader.gif
     9 └── js #实现动态效果的js代码，二选一，推荐第二个
-    10 ├── jquery.swipebox.js
+    10    ├── jquery.swipebox.js
     11    └── jquery.swipebox.min.js
 和
 
@@ -49,6 +49,6 @@ swipebox灯箱(仿微博九宫格图片展示效果)
     23     } )( jQuery );
     24   </script>
     25 </body>
-    26</html>
+    26 </html>
 
 最后说一点，先引用jq的js文件，后引用swipebox的，而且jq的文件必须是作者自带的！！
